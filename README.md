@@ -29,10 +29,11 @@ An intelligent financial analysis platform that combines traditional technical i
 1. Clone the repository:
    ```bash
    git clone [https://github.com/harinand-p/AI-stock-analysis-dashboard.git](https://github.com/harinand-p/AI-stock-  analysis-dashboard.git)
+   
    cd AI-stock-analysis-dashboard
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
 3. Run the application:
   ```bash
-  python main.py
+   python main.py
