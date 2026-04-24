@@ -35,5 +35,5 @@ An intelligent financial analysis platform that combines traditional technical i
    ```bash
    pip install -r requirements.txt
 3. Run the application:
-  ```bash
+   ```bash
    python main.py
