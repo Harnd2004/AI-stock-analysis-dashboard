@@ -5,10 +5,10 @@ An intelligent financial analysis platform that combines traditional technical i
 ## 📊 Project Visuals
 
 ### Dashboard Overview
-![Dashboard Demo](./screenshot 1.png)
+![Dashboard Demo](./screenshot1.png)
 
 ### Technical Analysis & Volume
-![Stock Analysis](./screenshot 2.png)
+![Stock Analysis](./screenshot2.png)
 
 ## Features
 - **Machine Learning**: Utilizes **Random Forest** models to forecast next-day price movements and trading directions.
