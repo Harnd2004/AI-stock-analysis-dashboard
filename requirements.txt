@@ -1,0 +1,12 @@
+gradio
+yfinance
+pandas
+numpy
+scikit-learn
+matplotlib
+requests
+joblib
+# Optional but recommended for full functionality:
+GoogleNews
+textblob
+mplcyberpunk
